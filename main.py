@@ -207,4 +207,4 @@ async def on_guild_channel_pins_update(channel, last_pin):
 
 
 # TODO Replace TOKEN with the token from discord developer portal
-client.run('J7qGGFX9zrfLube1mTiD8kUtWm25ydjI')
+client.run('TOKEN')
